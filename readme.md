@@ -1,1 +1,1 @@
-## Prince Solid
+## Solid

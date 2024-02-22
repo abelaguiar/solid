@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Test\Unit\Core\Service;
+namespace Tests\Unit\Core\Service;
 
 use PHPUnit\Framework\TestCase;
 use Solid\Core\Entity\Employer\Employer;

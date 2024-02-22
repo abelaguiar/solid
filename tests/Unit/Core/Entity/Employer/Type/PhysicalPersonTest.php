@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Test\Unit\Core\Entity\Employer\Type;
+namespace Tests\Unit\Core\Entity\Employer\Type;
 
 use PHPUnit\Framework\TestCase;
 use Solid\Core\Entity\Employer\Type\PhysicalPerson;
